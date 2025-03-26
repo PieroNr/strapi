@@ -7,7 +7,7 @@
     "build": "strapi build",
     "console": "strapi console",
     "deploy": "strapi deploy",
-    "dev": "sudo railway run npm run develop",
+    "dev": "strapi develop",
     "develop": "strapi develop",
     "start": "strapi start",
     "strapi": "strapi",
